@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px groove #D61AB4;
+    font-family: 'Teko', sans-serif;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah';
+    font-size: 20px;
+}
+
+button {
+    border: 4px solid #D61AB4;
+    background-color: black;
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah';
+}
+
+img {
+    border: 5px solid #D61AB4;
+    width: 200px;
+    height: 200px;
+}
+
+
+.pop-icon {
+    width: 400px;
+    border: none;
+    display: flex;
+  justify-content: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+.one{
+    display:none;
+}
+
+.two {font-size: 50px;}
+
+.four {font-size: 50px;}
+
